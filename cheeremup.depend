@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1635399221 source:c:\users\sabri\onedrive\documentos\programacion 2\cheeremup\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"stAlumno.h"
+	"utiles.h"
+
+1635398615 source:c:\users\sabri\onedrive\documentos\programacion 2\cheeremup\inicio.c
+	"stAlumno.h"
+	"utiles.h"
+
+1635398408 source:c:\users\sabri\onedrive\documentos\programacion 2\cheeremup\menuprincipal.c
+	"stAlumno.h"
+	"utiles.h"
+
+1635389973 c:\users\sabri\onedrive\documentos\programacion 2\cheeremup\stalumno.h
+
+1635315288 source:c:\users\sabri\onedrive\documentos\programacion 2\cheeremup\stalumno.c
+	"stAlumno.h"
+
+1635397127 source:c:\users\sabri\onedrive\documentos\programacion 2\cheeremup\utiles.c
+	<windows.h>
+
+1635391138 source:c:\users\sabri\onedrive\documentos\programacion 2\cheeremup\registro.c
+	"stAlumno.h"
+	"utiles.h"
+
+1635397127 c:\users\sabri\onedrive\documentos\programacion 2\cheeremup\utiles.h
+	<stdio.h>
+
+1635398408 source:c:\users\sabri\onedrive\documentos\programacion 2\cheeremup\menuadmin.c
+	"stAlumno.h"
+	"utiles.h"
+
+1635384214 source:c:\users\usuario\desktop\cheeremup\inicio.c
+	"stAlumno.h"
+	"utiles.h"
+
+1635375572 c:\users\usuario\desktop\cheeremup\stalumno.h
+
+1635382726 c:\users\usuario\desktop\cheeremup\utiles.h
+	<stdio.h>
+
+1635384820 source:c:\users\usuario\desktop\cheeremup\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"stAlumno.h"
+	"utiles.h"
+
+1635384008 source:c:\users\usuario\desktop\cheeremup\menuadmin.c
+	"stAlumno.h"
+	"utiles.h"
+
+1635384008 source:c:\users\usuario\desktop\cheeremup\menuprincipal.c
+	"stAlumno.h"
+	"utiles.h"
+
+1635376738 source:c:\users\usuario\desktop\cheeremup\registro.c
+	"stAlumno.h"
+	"utiles.h"
+
+1635300888 source:c:\users\usuario\desktop\cheeremup\stalumno.c
+	"stAlumno.h"
+
+1635382726 source:c:\users\usuario\desktop\cheeremup\utiles.c
+	<windows.h>
+
